@@ -1,4 +1,4 @@
-# DocOnline
+# DocReach
 A Mobile Application to aid specialists to view the active appointments and update their availability, and patients to
 schedule appointments based upon the availability of specialists.
 
